@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hello! Nice to Meet You! 👋🏾
 
+# <h1 align="center"> My name is Nerissa Dorlus, my journey of fulfillment has led me here to tech 💕 </h1>
 
-**NerissaDorlus/NerissaDorlus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning JavaScript
+- 👯 I would love to collaborate on fun projects
+- 😄 Pronouns: she/her/hers
 
-Here are some ideas to get you started:
+<!-- ### [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,Node.js,React)](https://github.com/nerissadorlus) -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Framework&badges=JavaScript,Node.js,Express.js)](https://github.com/nerissadorlus)
 
+### [![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MySQL,MongoDB,Firestore)](https://github.com/nerissadorlus)
+
+### ![Nerissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=nerissadorlus&show_icons=true&theme=radical)
+
+### Let's connect!
+
+[<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=flat&logo=gmail&logoColor=white">][gmail]
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=flat&logo=linkedin&logoColor=white" />][linkedin]
+<br />
+
+<hr />
+
+[gmail]: mailto:nerissadorlus@gmail.com/
+[linkedin]: www.linkedin.com/in/nerissadorlus
