@@ -23,4 +23,4 @@
 <hr />
 
 [gmail]: mailto:nerissadorlus@gmail.com/
-[linkedin]: www.linkedin.com/in/nerissadorlus
+[linkedin]: https://www.linkedin.com/in/nerissadorlus/
