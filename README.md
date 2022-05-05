@@ -1,8 +1,8 @@
 ### Hello! Nice to Meet You! 👋🏾
 
-# <h1 align="center"> My name is Nerissa Dorlus, my journey of fulfillment has led me here to tech 💕 </h1>
+# <h1 align="center"> I'm Nerissa, my journey of fulfillment has led me to tech 💕 </h1>
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m super excited about JavaScript
 - 👯 I would love to collaborate on fun projects
 - 😄 Pronouns: she/her/hers
 
@@ -12,7 +12,7 @@
 
 ### [![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MySQL,MongoDB,Firestore)](https://github.com/nerissadorlus)
 
-### ![Nerissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=nerissadorlus&show_icons=true&theme=radical)
+<!-- ### ![Nerissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=nerissadorlus&show_icons=true&theme=radical) -->
 
 ### Let's connect!
 
