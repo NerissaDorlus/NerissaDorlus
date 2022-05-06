@@ -10,6 +10,8 @@
 
 ### [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Framework&badges=JavaScript,Node.js,Express.js)](https://github.com/nerissadorlus)
 
+### [![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=Firestore,MongoDB,MySQL)](https://github.com/nerissadorlus)
+
 <a href="http://www.github.com/nerissadorlus"><img src="https://github-readme-stats.vercel.app/api?username=nerissadorlus&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="nerissa's GitHub stats" /></a>
 
 <a href="http://www.github.com/nerissadorlus"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nerissadorlus&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
@@ -30,5 +32,5 @@
 
 <hr />
 
-[gmail]: mailto:nerissadorlus@gmail.com/
+[gmail]: mailto:nerissadorlus@gmail.com
 [linkedin]: https://www.linkedin.com/in/nerissadorlus/
