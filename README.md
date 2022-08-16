@@ -16,8 +16,6 @@
 
 <a href="http://www.github.com/nerissadorlus"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nerissadorlus&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/nerissadorlus"><img src="https://activity-graph.herokuapp.com/graph?username=nerissadorlus&bg_color=1c1917&color=ffffff&line=a855f7&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/nerissdorlus" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerissadorlus&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!-- ### [![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MySQL,MongoDB,Firestore)](https://github.com/nerissadorlus) -->
